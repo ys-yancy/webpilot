@@ -66,7 +66,7 @@ export const defaultConfig = {
     {
       title: $gettext('Translate'),
       command: $gettext(
-        'Translate the content to Chinese, ensuring accuracy, fluency, and preserving the original meaning'
+        'Translate the content, ensuring accuracy, fluency, and preserving the original meaning'
       ),
     },
     {

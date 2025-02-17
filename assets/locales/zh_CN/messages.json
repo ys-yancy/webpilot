@@ -96,9 +96,9 @@
     "message": "Let's draw an image about this. You need to write in English without word wraps and headlines, without connection words. back to back separated with commas: [1], [2], [3], [4] {environment}, [5], [6] {style settings}\n        Replace [1] with the subject \"A image of \";\n        Replace [2] with the sentence you mentioned;\n        Replace [3] with a list of creative detailed descriptions about [element]; \n        Replace [4] with a list of detailed descriptions about the environment of the scene;\n        Replace [5] with a list of detailed descriptions about the mood/feelings and atmosphere of the scene;\n        Replace [6] with an appropriate director or artist. If he/she is a historical figure, include his/her country and dynasty.\n        Simply write the without explanation, replace the content inside the brackets with details about the content/word inside the brackets and delete the brackets. Repeat that for every bracket in the prompt, complex prompt for an AI-based text to image program that converts a prompt about a topic into an image. The outcome depends on the prompt's coherence. The topic of the whole scene is always dependent on the subject that is replaced with [element], always start the prompt with \"/imagine prompt:\", don't use any line breaks, Proper grammar is unnecessary and details can be listed.\n        Do not show things like \"[1]\"\"[element]\" in your response."
   },
   "Translate": {
-    "message": "翻译为中文"
+    "message": "翻译"
   },
-  "Translate_the_content_to_Chinese__ensure_accuracy__fluency__and_preserving_the_original_meaning": {
+  "Translate_the_content__ensure_accuracy__fluency__and_preserving_the_original_meaning": {
     "message": "将此内容翻译为中文，确保准确、流畅，并保留原意"
   },
   "New_tab_and_blank_pages": {
