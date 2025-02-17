@@ -46,6 +46,12 @@ export const defaultConfig = {
       command: $gettext('Summarize in English, concise and clear'),
     },
     {
+      title: $gettext('Translate'),
+      command: $gettext(
+        'Translate the content to Chinese, ensuring accuracy, fluency, and preserving the original meaning'
+      ),
+    },
+    {
       title: $gettext('SEO'),
       command: $gettext('Generate a list of 10 long-tail keywords for SEO, related to this page'),
     },
@@ -58,6 +64,12 @@ export const defaultConfig = {
   ],
   TextSelectionPrompts: [
     {
+      title: $gettext('Translate'),
+      command: $gettext(
+        'Translate the content to Chinese, ensuring accuracy, fluency, and preserving the original meaning'
+      ),
+    },
+    {
       title: $gettext('Explain'),
       command: $gettext('Explain it in English using words a middle schooler can understand'),
     },
@@ -65,6 +77,12 @@ export const defaultConfig = {
       title: $gettext('Refine'),
       command: $gettext(
         'Refine text, review and revise problems in spelling, grammar, punctuation, word usage, and sentence structure'
+      ),
+    },
+    {
+      title: $gettext('Solve'),
+      command: $gettext(
+        'Find the questions/todo on the page, analyze them step by step, and provide a complete solution in the end. If a specified starting point is given, use it directly without changing.'
       ),
     },
     {
